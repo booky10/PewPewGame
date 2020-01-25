@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.bukkit.event.EventHandler" />
+    </list>
+    <pattern value="tk.t11e.pewpewgame.main.Main" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="addEnchantment" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="addItemFlags" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="build" />
+    <pattern value="tk.t11e.pewpew.listener.DamageListener" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="getAmount" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="getCustomDataModel" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="getEnchantments" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="getItemFlags" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="getMaterial" />
+    <pattern value="tk.t11e.pewpew.util.Weapon" method="getMaterial" />
+    <pattern value="tk.t11e.pewpew.util.Weapon" method="getModelData" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="getName" />
+    <pattern value="tk.t11e.pewpew.util.Weapon" method="getName" />
+    <pattern value="tk.t11e.pewpew.listener.InteractListener" />
+    <pattern value="tk.t11e.pewpew.manager.PewPewManager" method="isLocationInSpawn" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="isUnbreakable" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="ItemBuilder" />
+    <pattern value="tk.t11e.pewpew.listener.JoinLeaveListener" />
+    <pattern value="tk.t11e.pewpew.listener.DamageListener" method="onFoodChange" />
+    <pattern value="tk.t11e.pewpew.listener.InteractListener" method="onInteract" />
+    <pattern value="tk.t11e.pewpew.listener.JoinLeaveListener" method="onJoin" />
+    <pattern value="tk.t11e.pewpew.listener.InteractListener" method="onPickup" />
+    <pattern value="tk.t11e.pewpew.listener.DamageListener" method="onProjectileDamage" />
+    <pattern value="tk.t11e.pewpew.listener.JoinLeaveListener" method="onQuit" />
+    <pattern value="tk.t11e.pewpew.manager.PewPewManager" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="removeEnchantment" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="removeItemFlags" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setAmount" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setCustomDataModel" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setEnchantments" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setItemFlags" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setMaterial" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setName" />
+    <pattern value="tk.t11e.pewpew.util.ItemBuilder" method="setUnbreakable" />
+    <pattern value="tk.t11e.pewpew.util.Weapon" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

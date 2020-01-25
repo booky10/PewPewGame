@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pewPewGame">
+    <output-path>$USER_HOME$/GameServer/plugins</output-path>
+    <root id="archive" name="pewPewGame.jar">
+      <element id="module-output" name="pewPewGame" />
+    </root>
+  </artifact>
+</component>
